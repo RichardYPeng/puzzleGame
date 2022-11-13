@@ -31,10 +31,10 @@ Run [game.jar](https://github.com/ShiqinHuo/IQ-Step_board_game/blob/master/game.
 
 ## Presentation
 
-[Slides for Presentation](https://github.com/ShiqinHuo/IQ-Step_board_game/blob/master/presentation.pdf)
+[Slides for Presentation](https://github.com/RichardYPeng/puzzleGame/blob/main/presentation.pdf)
 
 ## Requirements
-[Instruction](https://github.com/ShiqinHuo/IQ-Step_board_game/blob/master/Instruction.md)
+[Instruction](https://github.com/RichardYPeng/puzzleGame/blob/main/Instruction.md)
 
 ## Related Links
 [YouTuber Almas Baimagambetov's Channel](https://www.youtube.com/almasb0/videos)
